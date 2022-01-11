@@ -19,6 +19,10 @@ export class MainPageComponent{
     {
       nombre:'Vegeta',
       poder: 7500
+    },
+    {
+      nombre:'Trunks',
+      poder: 14000
     }
   ]
 
